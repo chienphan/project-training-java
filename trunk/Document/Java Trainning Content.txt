@@ -1,0 +1,13 @@
+1. Basic about Java
+	1.1 Basic components of Java language
+	1.2 Data type, variable, constant
+	1.3 Expression and operator 
+	1.4 Statement
+	1.5 Exception 
+	1.6 Array
+2. OOP on Java
+3. UI on Java
+4. Data Structure on Java 
+5. DataBase on Java
+6. Socket programming 
+   
