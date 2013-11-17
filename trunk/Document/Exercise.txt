@@ -4,5 +4,3 @@
 1.4 Viet chuong trinh tinh BCNN cua hai so m va n
 1.5 Viet chuong trinh tinh UCLN cua hai so m va n
 1.6 Viet chuong trinh tim so Fibonaci thu n. Day Fibinaci co cong thuc:  F(n) = F(n-1) + F(n-2) voi n >= 2 va F(0) = F(1) = 1
-
-xzfkjx
