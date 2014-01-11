@@ -7,7 +7,7 @@
 	1.6 Array
 2. OOP on Java
 3. UI on Java
-4. Data Structure on Java 
+4. Data Structure on Java
 5. DataBase on Java
 6. Socket programming 
    
